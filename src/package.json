@@ -1,0 +1,19 @@
+{
+  "name": "expressapp",
+  "version": "1.0.0",
+  "description": "Codigo ejemplo Docker",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "docker",
+    "express"
+  ],
+  "dependencies": {
+    "express": "^4.1.1"
+  }
+}
